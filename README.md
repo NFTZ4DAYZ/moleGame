@@ -1,10 +1,14 @@
-# Whac-a-mole
 
 
 
-Vanilla JavaScript game
+
+
+
+# Whac-a-mole: <a href="https://postimg.cc/ZWYFXCFR" target="_blank">Play Here</a>
 
 ## Overview
+
+Vanilla JavaScript game
 
 Simple grid-based game using HTML, CSS, and JavaScript. The idea of whack-a-mole is simple! The player needs to hit the grid with the mole as many times as possible until the time runs out
 
