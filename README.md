@@ -18,5 +18,5 @@ addEventListener
 setInterval
 classList.add
 
-![Employee data](/repository/assets/yinYang.jpg?raw=true "Employee Data title")
+![Employee data](/moleGame/yinYang.jpg?raw=true "Employee Data title")
  
