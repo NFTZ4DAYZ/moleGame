@@ -1,6 +1,6 @@
 # Whac-a-mole
 
-<a href="https://mole-game-two.vercel.app/" target="_blank"><img src="molee.png" /></a>
+<a href='https://postimg.cc/ZWYFXCFR' target='_blank'><img src='https://i.postimg.cc/cLw9g3vQ/molee.png' border='0' alt='molee'/></a>
 
 Vanilla JavaScript game
 
