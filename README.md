@@ -19,5 +19,5 @@ setInterval
 classList.add
 
 <img src="/yinYang.jpg" alt="Alt text" title="Optional title"
- style= "float: right;">
+ style= "margin: 0 auto;">
  
