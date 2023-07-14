@@ -1,0 +1,32 @@
+.square {
+    width: 200px;
+    height: 200px;
+    border-style: dotted;
+    border-color: coral;
+    background-color:CornflowerBlue;
+}
+*{
+    background-color: AntiqueWhite;
+}
+
+h2{
+    text-align: center;
+    font-style: italic;
+    color: CornflowerBlue;
+}
+
+.grid {
+    
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center;
+    width: 618px;
+    height: 618px;
+    margin: auto;
+}
+
+.mole {
+    background-image: url('yinYang.jpg');
+    background-size: cover;
+}
