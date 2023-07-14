@@ -4,7 +4,7 @@
 
 
 
-# Whac-a-mole: <a href="https://postimg.cc/ZWYFXCFR" target="_blank">Play Here</a>
+# Whac-a-mole: <a href="https://mole-game-two.vercel.app/" target="_blank">Play Here</a>
 
 ## Overview
 
@@ -24,7 +24,7 @@ addEventListener
 setInterval
 classList.add
 
-<a href='https://postimg.cc/ZWYFXCFR' target='_blank'><img src='https://i.postimg.cc/cLw9g3vQ/molee.png' border='0' alt='molee'/></a>
+<a href='https://mole-game-two.vercel.app/' target='_blank'><img src='https://i.postimg.cc/cLw9g3vQ/molee.png' border='0' alt='molee'/></a>
 
 
  
