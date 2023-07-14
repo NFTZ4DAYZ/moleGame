@@ -18,5 +18,5 @@ addEventListener
 setInterval
 classList.add
 
-![Employee data](/repository/moleGame/yinYang.jpg?raw=true "Employee Data title")
+<img src="/yinYang.jpg" alt="Alt text" title="Optional title">
  
