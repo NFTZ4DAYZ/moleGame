@@ -1,5 +1,8 @@
 # Whac-a-mole
 
+<img src="/yinYang.jpg" alt="Alt text" title="Optional title"
+ style= "margin: 0 auto;">
+
 Vanilla JavaScript game
 
 ## Overview
