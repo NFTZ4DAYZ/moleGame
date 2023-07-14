@@ -18,6 +18,5 @@ addEventListener
 setInterval
 classList.add
 
-<img src="/yinYang.jpg" alt="Alt text" title="Optional title"
- style= "margin: 0 auto;">
+
  
